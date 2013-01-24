@@ -3,19 +3,19 @@ hypertable-Datasource
 
 A CakePHP datasource for Hypertable (http://www.hypertable.com)
 
-#Requirements
+##Requirements
 
 
-#Installation
+##Installation
 
 
-#Sample Code
+##Sample Code
 
 
-#Author
+##Author
 
 Leonel Peña
 
-#Contributors
+##Contributors
 
-#Reference
+##Reference
