@@ -1,5 +1,5 @@
-hypertable-Datasource
-=====================
+Hypertable-Datasource for CakePHP
+=================================
 
 A CakePHP datasource for Hypertable (http://www.hypertable.com)
 
